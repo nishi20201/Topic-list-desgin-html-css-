@@ -1,0 +1,33 @@
+
+.list{
+   background-image:rgb(13, 238, 227) ; 
+   background:content-box ;
+}
+.list h1{
+    color:white ;
+    background-color: blue;
+    font-size: 30px;
+    text-align: center;
+    width: 60%;
+    margin:auto ;
+}
+.list h2{
+    color:honeydew;
+    background-color:red;
+    font-size: 30px;
+    text-align: center;
+    width: 60%;
+    margin:auto ;
+}
+.list p{
+    text-align: center;
+    background-color:rgb(14, 248, 14);
+    width:100% ;
+    font-size:25px ;
+    
+    
+}
+.list p:hover{
+    background-color: orangered;
+    color: sandybrown;
+}
